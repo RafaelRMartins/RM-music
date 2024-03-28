@@ -22,7 +22,7 @@ end
 RegisterNetEvent("MusicLab:searchMusic")
 AddEventHandler("MusicLab:searchMusic", function(musicQuery)
     local source = source
-    local baseUrl = "http://localhost:3333/search?music="
+    local baseUrl = "http://localhost:3000/search?music="
 
     local url = baseUrl .. musicQuery
 

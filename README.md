@@ -1,6 +1,6 @@
 # Script de Música para o FiveM
 
-![Script Image](https://cdn.discordapp.com/attachments/1190235195421503488/1190235195681538089/banner-script.jpg?ex=66069368&is=65f41e68&hm=abc48b763501d20919ba4d2108a683465c7d1b85150452fdcbbb13192d3c703b&)
+![Script Image](https://cdn.discordapp.com/attachments/1190235195421503488/1190235195681538089/banner-script.jpg?ex=667945e8&is=6677f468&hm=f1c254ddc9d6f5537ff6beae4df4263da6a2ff004c8d9b892b7ff3e82f4e7ffa&)
 
 ## Dependências
 
